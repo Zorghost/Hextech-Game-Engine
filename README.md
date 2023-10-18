@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="C:\Users\Altar\OneDrive\Bureau\Projects\Hextech-Game-Engine\logo.png" alt="Logo" width="180" height="180">
+    <img src=".\logo.png" alt="Logo" width="180" height="180">
 
 <h3 align="center">Hextech Game Engine</h3>
 
