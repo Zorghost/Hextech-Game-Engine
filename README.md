@@ -15,7 +15,6 @@
 <br />
 <div align="center">
     <img src="logo.png" alt="Logo" width="180" height="180">
-</div>
 
 <h3 align="center">Hextech Game Engine</h3>
 
